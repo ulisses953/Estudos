@@ -1,0 +1,1 @@
+O Mockito é uma biblioteca popular para Java que é usada em testes de unidades para criar objetos simulados, conhecidos como "mocks". Essa biblioteca facilita a simulação do comportamento de objetos e classes durante os testes, permitindo que você isole o código em teste de suas dependências externas. Aqui estão alguns pontos-chave sobre o Mockito:

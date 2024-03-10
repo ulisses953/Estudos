@@ -1,0 +1,3 @@
+O `Optional` foi introduzido no Java 8 como uma forma de lidar com possíveis valores nulos de maneira mais expressiva e segura. Ele faz parte do pacote `java.util` e fornece uma abstração para representar um valor que pode ou não estar presente.
+
+A principal ideia por trás do `Optional` é evitar o uso excessivo de valores nulos, promovendo uma programação mais defensiva e tornando mais explícito quando um valor pode ser nulo. Aqui estão alguns conceitos-chave sobre `Optional` em Java:

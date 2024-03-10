@@ -1,0 +1,3 @@
+```Git
+	git restore nomeDoArquivo
+```

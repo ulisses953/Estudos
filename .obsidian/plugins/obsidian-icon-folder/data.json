@@ -1,0 +1,70 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiSwagger",
+      "FabJs",
+      "SiSpring",
+      "IbGithub",
+      "SiNuxtdotjs"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "Programcao/Java": "FabJava",
+  "Programcao/Java/Spring": {
+    "iconName": "SiSpring",
+    "inheritanceIcon": "SiSpring"
+  },
+  "Programcao/JavaScript": "FabJs",
+  "Programcao/Java/Java Nativo": "FabJava",
+  "Imagem": "LiImage",
+  "Programcao": "TiCode",
+  "Programcao/Java/Java Nativo/Banco de dados": "LiDatabase",
+  "Redes": "LiNetwork",
+  "Redes/Ferramenta": "TiTool",
+  "Programcao/Java/JUnit": "SiJunit5",
+  "Programcao/Docker": {
+    "iconName": "SiDocker",
+    "inheritanceIcon": "SiDocker"
+  },
+  "Programcao/Angular": {
+    "iconName": "SiAngular",
+    "inheritanceIcon": "SiAngular"
+  },
+  "Programcao/vue": {
+    "iconName": "SiVuedotjs",
+    "inheritanceIcon": "SiVuedotjs"
+  },
+  "Programcao/vue/Nuxt": {
+    "iconName": "SiNuxtdotjs",
+    "inheritanceIcon": "SiNuxtdotjs"
+  },
+  "Programcao/Firibase": "SiFirebase",
+  "Programcao/GitHub": {
+    "iconName": "IbGithub",
+    "inheritanceIcon": "LiGithub"
+  },
+  "Programcao/Java/Spring/@PutMapping.md": "SiSpring",
+  "Programcao/Java/Spring/@GeneratedValue.md": "SiSpring",
+  "Programcao/Java/Spring/@DelteMapping.md": "SiSpring",
+  "Programcao/Java/Spring/@RequestBody.md": "SiSpring",
+  "Programcao/Java/Swagger": {
+    "iconName": "SiSwagger",
+    "inheritanceIcon": "SiSwagger"
+  }
+}

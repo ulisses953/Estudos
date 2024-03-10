@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "9f55e54ee1c8093b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3142d44b4f274b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6176d21a4c291922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programcao/Java/Spring/@RestControllerAdvice.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7982a6176b9bc83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f311a0d68dbf88ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "057e4dc883fac100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "785108c15a0881ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#java",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e85b52aa9e78829",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "3bd92a1ad9c8a02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2826bc80b64cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2419252dec6ad5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56eb96dc7f574aa6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1eae35a72d2f7d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programcao/Java/Spring/@RestControllerAdvice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e33146af40f357cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programcao/Java/Spring/@RestControllerAdvice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2e5af4e68dd0a94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programcao/Java/Spring/@RestControllerAdvice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6176d21a4c291922",
+  "lastOpenFiles": [
+    "Programcao/Java/Spring/DTO.md",
+    "Programcao/Java/Spring/@RestControllerAdvice.md",
+    "Programcao/Java/Spring/@ResponseStatus.md",
+    "Programcao/Java/Spring/@RequestBody.md",
+    "Programcao/Java/Spring/@Query.md",
+    "Programcao/Java/Spring/@PutMapping.md",
+    "Programcao/Java/Spring/@PathVariable.md",
+    "Programcao/Java/Spring/@GeneratedValue.md",
+    "Programcao/Java/Spring/@DelteMapping.md",
+    "Programcao/Java/Spring/@ExceptionHandler.md",
+    "Programcao/Java/Spring/Sem título",
+    "Programcao/Java/Spring/entityManager.md",
+    "Programcao/Java/Spring/paginação Spring.md",
+    "Programcao/Java/Spring/UUID.md",
+    "Programcao/Java/Swagger/O que é o Swagger.md",
+    "Programcao/Java/Swagger/Configuração.md",
+    "Programcao/Java/Swagger/Importando o Swagger.md",
+    "Programcao/Java/Swagger/Sem título",
+    "Programcao/GitHub/Restaurando comit.md",
+    "Programcao/GitHub/Restaurando arquivo.md",
+    "Programcao/GitHub/Removendo o repositório .git.md",
+    "Programcao/GitHub/Pasta sem arquivos, como salvar.md",
+    "Programcao/GitHub/Git reset.md",
+    "Programcao/GitHub/Git reflog.md",
+    "Programcao/GitHub/Git pull.md",
+    "Programcao/GitHub/Git branch.md",
+    "Programcao/GitHub/Alterando mensagem do ultimo comit.md",
+    "Programcao/Conceitos/TDD.md",
+    "Imagem/what-is-jdbc-fig2-100927560-large.webp",
+    "Imagem/what-is-jdbc-fig1-100927559-large.webp",
+    "Imagem/images.png",
+    "Programcao/Java/Swagger",
+    "hardware/Fonte",
+    "hardware",
+    "Sem título.canvas",
+    "Lesgilacao",
+    "Programcao/GitHub",
+    "Programcao/RabbitMQ",
+    "Programcao/Java/JBOSS",
+    "Programcao/vue/Nuxt",
+    "Java/Junit/Sem título.canvas"
+  ]
+}

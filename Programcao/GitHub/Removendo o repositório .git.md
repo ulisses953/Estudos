@@ -1,0 +1,4 @@
+
+```PowerChell
+	rm -rf .git
+```

@@ -1,0 +1,4 @@
+
+Test_nomeDoMetodo__EstadoDoTeste__Expect_ComportamentoEsperado_
+
+_Exemplo_: test_IsAdult_AgeGreaterThan18_Expect_ReturnTrue()
