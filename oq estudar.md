@@ -1,5 +1,6 @@
-- [ ] Conceitos e fundamentos de tecnologia da informação, hardware e software. Conceitos de eletricidade e eletrônica. 
-- [ ] Padrões de fontes de alimentação. 
+- [ ] Conceitos e fundamentos de tecnologia da informação, hardware e software. 
+- [ ] Conceitos de eletricidade e eletrônica. 
+- [x] Padrões de fontes de alimentação. 
 - [ ]  Carga eletrostática: eletrização e descarga. 
 - [ ]  Análise e diagnóstico de problemas de hardware e software. 
 - [ ] Instalação e configuração de softwares em estações de trabalho. 

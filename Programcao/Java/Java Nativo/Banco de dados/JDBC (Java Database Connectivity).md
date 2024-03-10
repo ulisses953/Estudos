@@ -13,6 +13,7 @@ O JDBC possui tanto uma uma API para se comunicar com o Java e também uma API p
 # Realizando a Consulta no Banco de Dados
 
 ## Importação da Biblioteca
+
 A biblioteca a ser importada é a [Java.sql](https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html), segue em anexo como realizar a importação 
 
 ```Java

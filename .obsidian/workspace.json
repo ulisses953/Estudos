@@ -11,13 +11,8 @@
             "id": "6176d21a4c291922",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programcao/Java/Spring/@RestControllerAdvice.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programcao/Java/Spring/@RestControllerAdvice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programcao/Java/Spring/@RestControllerAdvice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +127,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programcao/Java/Spring/@RestControllerAdvice.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,34 +151,40 @@
   },
   "active": "6176d21a4c291922",
   "lastOpenFiles": [
-    "Programcao/Java/Spring/DTO.md",
-    "Programcao/Java/Spring/@RestControllerAdvice.md",
-    "Programcao/Java/Spring/@ResponseStatus.md",
-    "Programcao/Java/Spring/@RequestBody.md",
-    "Programcao/Java/Spring/@Query.md",
-    "Programcao/Java/Spring/@PutMapping.md",
-    "Programcao/Java/Spring/@PathVariable.md",
-    "Programcao/Java/Spring/@GeneratedValue.md",
-    "Programcao/Java/Spring/@DelteMapping.md",
-    "Programcao/Java/Spring/@ExceptionHandler.md",
-    "Programcao/Java/Spring/Sem título",
-    "Programcao/Java/Spring/entityManager.md",
-    "Programcao/Java/Spring/paginação Spring.md",
-    "Programcao/Java/Spring/UUID.md",
-    "Programcao/Java/Swagger/O que é o Swagger.md",
-    "Programcao/Java/Swagger/Configuração.md",
-    "Programcao/Java/Swagger/Importando o Swagger.md",
-    "Programcao/Java/Swagger/Sem título",
-    "Programcao/GitHub/Restaurando comit.md",
-    "Programcao/GitHub/Restaurando arquivo.md",
+    "do-19-2024.md",
+    "Programcao/Conceitos/TDD.md",
+    "Programcao/Conceitos/mvc.md",
+    "Programcao/Conceitos/BDD.md",
+    "Programcao/Conceitos/API REST.md",
+    "Programcao/Conceitos/API.md",
+    "Programcao/Conceitos/teste/Teste Unitário ou Testes de Unidades.md",
+    "Programcao/Conceitos/teste/Teste de Integração.md",
+    "Programcao/Conceitos/teste/AAA.md",
+    "Programcao/Angular/Angular.md",
     "Programcao/GitHub/Removendo o repositório .git.md",
     "Programcao/GitHub/Pasta sem arquivos, como salvar.md",
-    "Programcao/GitHub/Git reset.md",
+    "Programcao/GitHub/Git stash.md",
     "Programcao/GitHub/Git reflog.md",
-    "Programcao/GitHub/Git pull.md",
     "Programcao/GitHub/Git branch.md",
     "Programcao/GitHub/Alterando mensagem do ultimo comit.md",
-    "Programcao/Conceitos/TDD.md",
+    "Programcao/Java/Spring/Repository/@NamedQuery.md",
+    "Programcao/Java/Spring/Repository/@Query.md",
+    "Programcao/Java/Spring/Repository/Consulta por método.md",
+    "Programcao/Java/Spring/@GetMapping.md",
+    "Programcao/Java/Spring/@ExceptionHandler.md",
+    "Programcao/Java/Spring/@DelteMapping.md",
+    "Programcao/Java/Swagger/O que é o Swagger.md",
+    "Programcao/Java/Swagger/Importando o Swagger.md",
+    "Programcao/Java/Swagger/Configuração.md",
+    "Programcao/Java/Spring/Sping.canvas",
+    "Programcao/Java/Spring/@RestController.md",
+    "Programcao/Java/Spring/Sem título",
+    "Programcao/Java/Spring/Security",
+    "Programcao/Java/Spring/Repository",
+    "Imagem/d09cebc685.webp",
+    "Programcao/Java/Spring/Spring Secuty/Sem título",
+    "Programcao/Java/Spring/Spring Secuty",
+    "Programcao/Java/Swagger/Sem título",
     "Imagem/what-is-jdbc-fig2-100927560-large.webp",
     "Imagem/what-is-jdbc-fig1-100927559-large.webp",
     "Imagem/images.png",
@@ -196,10 +193,6 @@
     "hardware",
     "Sem título.canvas",
     "Lesgilacao",
-    "Programcao/GitHub",
-    "Programcao/RabbitMQ",
-    "Programcao/Java/JBOSS",
-    "Programcao/vue/Nuxt",
     "Java/Junit/Sem título.canvas"
   ]
 }

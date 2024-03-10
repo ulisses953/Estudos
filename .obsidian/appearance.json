@@ -3,5 +3,6 @@
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "translucency": false,
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "cssTheme": "Minimal"
 }

@@ -19,7 +19,7 @@ public class GlobalExceptionHandler {
     }
 
     @ExceptionHandler(NotFoundException.class)
-    public ResponseEntity<String> handleNotFoundException(NotFoundException ex) {
+	    public ResponseEntity<String> handleNotFoundException(NotFoundException ex) {
         return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Recurso não encontrado: " + ex.getMessage());
     }
 }

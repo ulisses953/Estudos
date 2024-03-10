@@ -21,3 +21,8 @@ public class ExemploController {
     }
 }
 ```
+
+### Informações adicionais 
+
+[[@GetMapping]]
+[[@RestController]]

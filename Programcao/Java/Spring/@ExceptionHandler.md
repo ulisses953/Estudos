@@ -35,3 +35,8 @@ Neste exemplo:
 - O método `handleNotFoundException` retorna uma mensagem de erro com base na exceção lançada. Além disso, ele é anotado com `@ResponseStatus(HttpStatus.NOT_FOUND)`, indicando que ele retornará uma resposta com o status HTTP 404 (Not Found) para o cliente.
 
 Essa abordagem permite que você defina facilmente como lidar com exceções específicas em sua aplicação, centralizando o tratamento de erros em métodos dedicados e mantendo um código mais limpo e organizado.
+
+### Informações adicionais 
+[[@ResponseStatus]]
+[[@RestController]]
+

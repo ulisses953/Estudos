@@ -24,3 +24,6 @@ public class ExemploController {
 }
 ```
  
+### Informações adicionais 
+
+[[@RestController]]
